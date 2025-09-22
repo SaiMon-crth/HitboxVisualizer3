@@ -1,0 +1,17 @@
+{
+  "key.hitboxvisualizer.toggle": "Toggle Hitbox Visualizer",
+  "category.hitboxvisualizer.general": "Hitbox Visualizer",
+  "text.autoconfig.hitboxvisualizer.title": "Hitbox Visualizer Settings",
+  "text.autoconfig.hitboxvisualizer.option.enabled": "Enabled",
+  "text.autoconfig.hitboxvisualizer.option.showAlways": "Show Always",
+  "text.autoconfig.hitboxvisualizer.option.showPlayerHitboxes": "Show Player Hitboxes",
+  "text.autoconfig.hitboxvisualizer.option.showMobHitboxes": "Show Mob Hitboxes",
+  "text.autoconfig.hitboxvisualizer.option.showItemHitboxes": "Show Item Hitboxes",
+  "text.autoconfig.hitboxvisualizer.option.showProjectileHitboxes": "Show Projectile Hitboxes",
+  "text.autoconfig.hitboxvisualizer.option.playerHitboxColor": "Player Hitbox Color",
+  "text.autoconfig.hitboxvisualizer.option.mobHitboxColor": "Mob Hitbox Color",
+  "text.autoconfig.hitboxvisualizer.option.itemHitboxColor": "Item Hitbox Color",
+  "text.autoconfig.hitboxvisualizer.option.projectileHitboxColor": "Projectile Hitbox Color",
+  "text.autoconfig.hitboxvisualizer.option.lineWidth": "Line Width",
+  "text.autoconfig.hitboxvisualizer.option.alpha": "Transparency"
+}
